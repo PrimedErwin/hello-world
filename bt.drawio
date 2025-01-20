@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 Safari/537.36 Edg/132.0.0.0" version="26.0.6">
   <diagram name="第 1 页" id="vUlN-p0JuBHu4H8eshn-">
-    <mxGraphModel dx="475" dy="305" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="570" dy="366" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -125,7 +125,34 @@
           <mxGeometry x="360" y="205" width="70" height="30" as="geometry" />
         </mxCell>
         <mxCell id="F161tVvBFEbwXO0ZhcAf-30" value="其他..." style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="565" y="205" width="60" height="30" as="geometry" />
+          <mxGeometry x="510" y="240" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="F161tVvBFEbwXO0ZhcAf-31" value="[一直做]&lt;div&gt;有人在&lt;/div&gt;&lt;div&gt;附近？&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="115" y="320" width="70" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="F161tVvBFEbwXO0ZhcAf-32" value="[马上做]&lt;div&gt;恐吓或&lt;/div&gt;&lt;div&gt;战斗&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="175" y="320" width="70" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="F161tVvBFEbwXO0ZhcAf-33" value="[马上做]&lt;div&gt;找一个&lt;/div&gt;&lt;div&gt;城堡&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=10;" vertex="1" parent="1">
+          <mxGeometry x="230" y="325" width="60" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="F161tVvBFEbwXO0ZhcAf-34" value="[稍后做]&lt;div&gt;飞过去&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=10;" vertex="1" parent="1">
+          <mxGeometry x="270" y="325" width="60" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="F161tVvBFEbwXO0ZhcAf-35" value="[稍后做]&lt;div&gt;和守卫&lt;/div&gt;&lt;div&gt;战斗&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=10;" vertex="1" parent="1">
+          <mxGeometry x="310" y="325" width="60" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="F161tVvBFEbwXO0ZhcAf-36" value="[马上做]&lt;div&gt;能带回&lt;/div&gt;&lt;div&gt;所有的&lt;/div&gt;&lt;div&gt;金子？&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=10;" vertex="1" parent="1">
+          <mxGeometry x="350" y="325" width="60" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="F161tVvBFEbwXO0ZhcAf-37" value="[马上做]&lt;div&gt;带上&lt;/div&gt;&lt;div&gt;金子&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=10;" vertex="1" parent="1">
+          <mxGeometry x="390" y="325" width="60" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="F161tVvBFEbwXO0ZhcAf-38" value="[稍后做]&lt;div&gt;飞回去&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=10;" vertex="1" parent="1">
+          <mxGeometry x="430" y="325" width="60" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="F161tVvBFEbwXO0ZhcAf-39" value="[马上做]&lt;div&gt;把金子&lt;/div&gt;&lt;div&gt;放下&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=10;" vertex="1" parent="1">
+          <mxGeometry x="470" y="325" width="60" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
