@@ -220,6 +220,48 @@
         <mxCell id="c8u9CUwiMSIZt50U76ma-7" value="下次运行：" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="225" y="530" width="95" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="c8u9CUwiMSIZt50U76ma-9" value="0" style="rhombus;whiteSpace=wrap;html=1;shadow=1;" vertex="1" parent="1">
+          <mxGeometry x="320" y="720" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="c8u9CUwiMSIZt50U76ma-12" value="1" style="rhombus;whiteSpace=wrap;html=1;shadow=1;" vertex="1" parent="1">
+          <mxGeometry x="320" y="800" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="c8u9CUwiMSIZt50U76ma-19" value="2" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;shadow=1;" vertex="1" parent="1">
+          <mxGeometry x="290" y="880" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="c8u9CUwiMSIZt50U76ma-20" value="3" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;shadow=1;" vertex="1" parent="1">
+          <mxGeometry x="350" y="880" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="c8u9CUwiMSIZt50U76ma-22" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="c8u9CUwiMSIZt50U76ma-12" target="c8u9CUwiMSIZt50U76ma-19">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="250" y="820" as="sourcePoint" />
+            <mxPoint x="300" y="770" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="c8u9CUwiMSIZt50U76ma-23" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="c8u9CUwiMSIZt50U76ma-12" target="c8u9CUwiMSIZt50U76ma-20">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="60" y="860" as="sourcePoint" />
+            <mxPoint x="110" y="810" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="c8u9CUwiMSIZt50U76ma-24" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="c8u9CUwiMSIZt50U76ma-9" target="c8u9CUwiMSIZt50U76ma-12">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="240" y="860" as="sourcePoint" />
+            <mxPoint x="290" y="810" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="c8u9CUwiMSIZt50U76ma-34" value="顺序决策" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="305" y="690" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="c8u9CUwiMSIZt50U76ma-35" value="顺序决策" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="360" y="805" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="c8u9CUwiMSIZt50U76ma-38" value="[一直做]&lt;div&gt;巨龙来了？&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="270" y="930" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="c8u9CUwiMSIZt50U76ma-39" value="[稍后做]&lt;div&gt;和巨龙战斗&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="330" y="930" width="80" height="40" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
