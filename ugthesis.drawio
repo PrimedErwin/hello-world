@@ -1,9 +1,12 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36 Edg/143.0.0.0" version="29.3.2">
   <diagram name="第 1 页" id="6s13tfF3AYCJBEIqdlIw">
-    <mxGraphModel dx="1637" dy="472" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2009" dy="688" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="_GPtF9NUB2TV1SQazWl2-66" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;dashed=1;dashPattern=8 8;strokeColor=#A5A5A5;strokeWidth=2;perimeterSpacing=0;" value="" vertex="1">
+          <mxGeometry height="860" width="560" x="-810" y="30" as="geometry" />
+        </mxCell>
         <mxCell id="_GPtF9NUB2TV1SQazWl2-61" edge="1" parent="1" source="_GPtF9NUB2TV1SQazWl2-53" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="_GPtF9NUB2TV1SQazWl2-56">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
@@ -247,6 +250,36 @@
         </mxCell>
         <mxCell id="_GPtF9NUB2TV1SQazWl2-62" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="多车道自由流场景下&lt;div&gt;防碰撞算法测试与验证&lt;/div&gt;" vertex="1">
           <mxGeometry height="62.5" width="140" x="-400" y="743.75" as="geometry" />
+        </mxCell>
+        <mxCell id="_GPtF9NUB2TV1SQazWl2-67" edge="1" parent="1" style="endArrow=none;dashed=1;html=1;rounded=0;dashPattern=8 8;strokeWidth=2;strokeColor=#A5A5A5;startSize=6;entryX=1;entryY=0.186;entryDx=0;entryDy=0;entryPerimeter=0;" target="_GPtF9NUB2TV1SQazWl2-66" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="-810" y="190" as="sourcePoint" />
+            <mxPoint x="-720" y="190" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="_GPtF9NUB2TV1SQazWl2-68" edge="1" parent="1" style="endArrow=none;dashed=1;html=1;rounded=0;dashPattern=8 8;strokeWidth=2;strokeColor=#A5A5A5;startSize=6;entryX=1;entryY=0.186;entryDx=0;entryDy=0;entryPerimeter=0;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="-810" y="350" as="sourcePoint" />
+            <mxPoint x="-250" y="350" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="_GPtF9NUB2TV1SQazWl2-69" edge="1" parent="1" style="endArrow=none;dashed=1;html=1;rounded=0;dashPattern=8 8;strokeWidth=2;strokeColor=#A5A5A5;startSize=6;entryX=1;entryY=0.186;entryDx=0;entryDy=0;entryPerimeter=0;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="-810" y="515" as="sourcePoint" />
+            <mxPoint x="-250" y="515" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="_GPtF9NUB2TV1SQazWl2-71" edge="1" parent="1" style="endArrow=none;dashed=1;html=1;rounded=0;dashPattern=8 8;strokeWidth=2;strokeColor=#A5A5A5;startSize=6;entryX=1;entryY=0.186;entryDx=0;entryDy=0;entryPerimeter=0;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="-810" y="675" as="sourcePoint" />
+            <mxPoint x="-250" y="675" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="_GPtF9NUB2TV1SQazWl2-72" edge="1" parent="1" style="endArrow=none;dashed=1;html=1;rounded=0;dashPattern=8 8;strokeWidth=2;strokeColor=#A5A5A5;startSize=6;entryX=1;entryY=0.186;entryDx=0;entryDy=0;entryPerimeter=0;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="-810" y="830" as="sourcePoint" />
+            <mxPoint x="-250" y="830" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
