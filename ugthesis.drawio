@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36 Edg/142.0.0.0" version="29.2.7">
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36 Edg/143.0.0.0" version="29.3.2">
   <diagram name="第 1 页" id="6s13tfF3AYCJBEIqdlIw">
-    <mxGraphModel dx="2245" dy="834" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1961" dy="661" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -72,6 +72,24 @@
         </mxCell>
         <mxCell id="9MTfDAJn6EFa-tNS8RlK-21" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;C_cnt: Collision Count&lt;/font&gt;&lt;div&gt;&lt;span style=&quot;font-size: 18px;&quot;&gt;因冲突导致CRC校验错误的个数&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 18px;&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;div&gt;&lt;font style=&quot;font-size: 18px;&quot;&gt;S_cnt: Success Count&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 18px;&quot;&gt;成功收到VST报文的个数&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 18px;&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 18px;&quot;&gt;I_cnt: Idle Count&lt;/font&gt;&lt;/div&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 18px;&quot;&gt;未收到响应的个数&lt;/font&gt;&lt;/div&gt;" vertex="1">
           <mxGeometry height="30" width="340" x="320" y="150" as="geometry" />
+        </mxCell>
+        <mxCell id="_GPtF9NUB2TV1SQazWl2-1" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=light-dark(#EDEDED,#EDEDED);strokeColor=light-dark(#D2D2D2,#D2D2D2);" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;第一章 绪论&lt;/font&gt;" vertex="1">
+          <mxGeometry height="40" width="540" x="-800" y="40" as="geometry" />
+        </mxCell>
+        <mxCell id="_GPtF9NUB2TV1SQazWl2-2" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=light-dark(#EDEDED,#EDEDED);strokeColor=light-dark(#D2D2D2,#D2D2D2);" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;第二章 路侧单元系统设计方案&lt;/font&gt;" vertex="1">
+          <mxGeometry height="40" width="540" x="-800" y="200" as="geometry" />
+        </mxCell>
+        <mxCell id="_GPtF9NUB2TV1SQazWl2-3" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=light-dark(#EDEDED,#EDEDED);strokeColor=light-dark(#D2D2D2,#D2D2D2);" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;第三章 路侧单元硬件电路设计与物理层仿真&lt;/font&gt;" vertex="1">
+          <mxGeometry height="40" width="540" x="-800" y="360" as="geometry" />
+        </mxCell>
+        <mxCell id="_GPtF9NUB2TV1SQazWl2-4" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=light-dark(#EDEDED,#EDEDED);strokeColor=light-dark(#D2D2D2,#D2D2D2);" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;第四章 DSRC协议栈设计与关键算法实现&lt;/font&gt;" vertex="1">
+          <mxGeometry height="40" width="540" x="-800" y="520" as="geometry" />
+        </mxCell>
+        <mxCell id="_GPtF9NUB2TV1SQazWl2-5" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=light-dark(#EDEDED,#EDEDED);strokeColor=light-dark(#D2D2D2,#D2D2D2);" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;第五章 系统集成测试与验证&lt;/font&gt;" vertex="1">
+          <mxGeometry height="40" width="540" x="-800" y="680" as="geometry" />
+        </mxCell>
+        <mxCell id="_GPtF9NUB2TV1SQazWl2-7" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=light-dark(#EDEDED,#EDEDED);strokeColor=light-dark(#D2D2D2,#D2D2D2);" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;第六章 总结与展望&lt;/font&gt;" vertex="1">
+          <mxGeometry height="40" width="540" x="-800" y="840" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
