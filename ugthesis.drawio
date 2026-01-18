@@ -1,9 +1,21 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36 Edg/143.0.0.0" version="29.3.2">
   <diagram name="第 1 页" id="6s13tfF3AYCJBEIqdlIw">
-    <mxGraphModel dx="1961" dy="661" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1637" dy="472" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="_GPtF9NUB2TV1SQazWl2-61" edge="1" parent="1" source="_GPtF9NUB2TV1SQazWl2-53" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="_GPtF9NUB2TV1SQazWl2-56">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="_GPtF9NUB2TV1SQazWl2-53" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" value="" vertex="1">
+          <mxGeometry height="95" width="115" x="-687.5" y="727.5" as="geometry" />
+        </mxCell>
+        <mxCell id="_GPtF9NUB2TV1SQazWl2-25" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" value="" vertex="1">
+          <mxGeometry height="100" width="160" x="-750" y="410" as="geometry" />
+        </mxCell>
+        <mxCell id="_GPtF9NUB2TV1SQazWl2-45" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" value="" vertex="1">
+          <mxGeometry height="105" width="310" x="-800" y="565" as="geometry" />
+        </mxCell>
         <mxCell id="9MTfDAJn6EFa-tNS8RlK-9" edge="1" parent="1" source="9MTfDAJn6EFa-tNS8RlK-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="9MTfDAJn6EFa-tNS8RlK-4">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
@@ -73,6 +85,9 @@
         <mxCell id="9MTfDAJn6EFa-tNS8RlK-21" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;C_cnt: Collision Count&lt;/font&gt;&lt;div&gt;&lt;span style=&quot;font-size: 18px;&quot;&gt;因冲突导致CRC校验错误的个数&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 18px;&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;div&gt;&lt;font style=&quot;font-size: 18px;&quot;&gt;S_cnt: Success Count&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 18px;&quot;&gt;成功收到VST报文的个数&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 18px;&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 18px;&quot;&gt;I_cnt: Idle Count&lt;/font&gt;&lt;/div&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 18px;&quot;&gt;未收到响应的个数&lt;/font&gt;&lt;/div&gt;" vertex="1">
           <mxGeometry height="30" width="340" x="320" y="150" as="geometry" />
         </mxCell>
+        <mxCell id="_GPtF9NUB2TV1SQazWl2-15" edge="1" parent="1" source="_GPtF9NUB2TV1SQazWl2-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="_GPtF9NUB2TV1SQazWl2-9" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="_GPtF9NUB2TV1SQazWl2-1" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=light-dark(#EDEDED,#EDEDED);strokeColor=light-dark(#D2D2D2,#D2D2D2);" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;第一章 绪论&lt;/font&gt;" vertex="1">
           <mxGeometry height="40" width="540" x="-800" y="40" as="geometry" />
         </mxCell>
@@ -90,6 +105,148 @@
         </mxCell>
         <mxCell id="_GPtF9NUB2TV1SQazWl2-7" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=light-dark(#EDEDED,#EDEDED);strokeColor=light-dark(#D2D2D2,#D2D2D2);" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;第六章 总结与展望&lt;/font&gt;" vertex="1">
           <mxGeometry height="40" width="540" x="-800" y="840" as="geometry" />
+        </mxCell>
+        <mxCell id="_GPtF9NUB2TV1SQazWl2-8" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="多车道自由流下的OBU标签碰撞问题" vertex="1">
+          <mxGeometry height="30" width="230" x="-645" y="150" as="geometry" />
+        </mxCell>
+        <mxCell id="_GPtF9NUB2TV1SQazWl2-11" edge="1" parent="1" source="_GPtF9NUB2TV1SQazWl2-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="_GPtF9NUB2TV1SQazWl2-8" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="_GPtF9NUB2TV1SQazWl2-9" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="电子不停车收费系统的发展" vertex="1">
+          <mxGeometry height="30" width="230" x="-645" y="100" as="geometry" />
+        </mxCell>
+        <mxCell id="_GPtF9NUB2TV1SQazWl2-14" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontColor=light-dark(#A5A5A5,#A5A5A5);" value="研究背景调研" vertex="1">
+          <mxGeometry height="20" width="110" x="-630" y="80" as="geometry" />
+        </mxCell>
+        <mxCell id="_GPtF9NUB2TV1SQazWl2-20" edge="1" parent="1" source="_GPtF9NUB2TV1SQazWl2-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="_GPtF9NUB2TV1SQazWl2-18" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="_GPtF9NUB2TV1SQazWl2-21" edge="1" parent="1" source="_GPtF9NUB2TV1SQazWl2-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="_GPtF9NUB2TV1SQazWl2-17">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="-515" y="300" />
+              <mxPoint x="-655" y="300" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="_GPtF9NUB2TV1SQazWl2-16" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="路侧单元性能需求分析" vertex="1">
+          <mxGeometry height="30" width="230" x="-630" y="250" as="geometry" />
+        </mxCell>
+        <mxCell id="_GPtF9NUB2TV1SQazWl2-17" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="硬件方案选型与架构设计" vertex="1">
+          <mxGeometry height="30" width="230" x="-790" y="310" as="geometry" />
+        </mxCell>
+        <mxCell id="_GPtF9NUB2TV1SQazWl2-18" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="基于通信协议的软件分层架构" vertex="1">
+          <mxGeometry height="30" width="230" x="-500" y="310" as="geometry" />
+        </mxCell>
+        <mxCell id="_GPtF9NUB2TV1SQazWl2-19" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontColor=light-dark(#A5A5A5,#A5A5A5);" value="建立系统总体架构" vertex="1">
+          <mxGeometry height="20" width="110" x="-500" y="280" as="geometry" />
+        </mxCell>
+        <mxCell id="_GPtF9NUB2TV1SQazWl2-24" edge="1" parent="1" source="_GPtF9NUB2TV1SQazWl2-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="_GPtF9NUB2TV1SQazWl2-23" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="_GPtF9NUB2TV1SQazWl2-22" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="物理层参数分析" vertex="1">
+          <mxGeometry height="30" width="140" x="-740" y="420" as="geometry" />
+        </mxCell>
+        <mxCell id="_GPtF9NUB2TV1SQazWl2-23" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="物理层Matlab仿真" vertex="1">
+          <mxGeometry height="30" width="140" x="-740" y="470" as="geometry" />
+        </mxCell>
+        <mxCell id="_GPtF9NUB2TV1SQazWl2-33" edge="1" parent="1" source="_GPtF9NUB2TV1SQazWl2-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="_GPtF9NUB2TV1SQazWl2-27">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="-500" y="460" />
+              <mxPoint x="-500" y="485" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="_GPtF9NUB2TV1SQazWl2-34" edge="1" parent="1" source="_GPtF9NUB2TV1SQazWl2-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="_GPtF9NUB2TV1SQazWl2-26">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="-500" y="460" />
+              <mxPoint x="-500" y="435" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="_GPtF9NUB2TV1SQazWl2-26" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="基带控制模块电路设计" vertex="1">
+          <mxGeometry height="30" width="140" x="-455" y="420" as="geometry" />
+        </mxCell>
+        <mxCell id="_GPtF9NUB2TV1SQazWl2-27" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="射频收发模块电路设计" vertex="1">
+          <mxGeometry height="30" width="140" x="-455" y="470" as="geometry" />
+        </mxCell>
+        <mxCell id="_GPtF9NUB2TV1SQazWl2-28" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontColor=light-dark(#A5A5A5,#A5A5A5);" value="可行性支撑" vertex="1">
+          <mxGeometry height="20" width="110" x="-600" y="440" as="geometry" />
+        </mxCell>
+        <mxCell id="_GPtF9NUB2TV1SQazWl2-43" edge="1" parent="1" source="_GPtF9NUB2TV1SQazWl2-36" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="_GPtF9NUB2TV1SQazWl2-38">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="-670" y="615" />
+              <mxPoint x="-670" y="585" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="_GPtF9NUB2TV1SQazWl2-44" edge="1" parent="1" source="_GPtF9NUB2TV1SQazWl2-36" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="_GPtF9NUB2TV1SQazWl2-39">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="-670" y="615" />
+              <mxPoint x="-670" y="645" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="_GPtF9NUB2TV1SQazWl2-36" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="DSRC协议分析" vertex="1">
+          <mxGeometry height="30" width="90" x="-790" y="600" as="geometry" />
+        </mxCell>
+        <mxCell id="_GPtF9NUB2TV1SQazWl2-38" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="FSM状态机" vertex="1">
+          <mxGeometry height="30" width="90" x="-590" y="570" as="geometry" />
+        </mxCell>
+        <mxCell id="_GPtF9NUB2TV1SQazWl2-39" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="软件模拟PSAM" vertex="1">
+          <mxGeometry height="30" width="90" x="-590" y="630" as="geometry" />
+        </mxCell>
+        <mxCell id="_GPtF9NUB2TV1SQazWl2-40" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontColor=light-dark(#A5A5A5,#A5A5A5);" value="交易流程实现" vertex="1">
+          <mxGeometry height="20" width="110" x="-690" y="565" as="geometry" />
+        </mxCell>
+        <mxCell id="_GPtF9NUB2TV1SQazWl2-41" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontColor=light-dark(#A5A5A5,#A5A5A5);" value="加密实现" vertex="1">
+          <mxGeometry height="20" width="110" x="-690" y="620" as="geometry" />
+        </mxCell>
+        <mxCell id="_GPtF9NUB2TV1SQazWl2-48" edge="1" parent="1" source="_GPtF9NUB2TV1SQazWl2-45" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="_GPtF9NUB2TV1SQazWl2-47" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="_GPtF9NUB2TV1SQazWl2-46" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontColor=light-dark(#A5A5A5,#A5A5A5);" value="多标签场景下" vertex="1">
+          <mxGeometry height="20" width="110" x="-500" y="595" as="geometry" />
+        </mxCell>
+        <mxCell id="_GPtF9NUB2TV1SQazWl2-47" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="应用基于动态时隙的ALOHA改进防碰撞算法" vertex="1">
+          <mxGeometry height="62.5" width="140" x="-400" y="586.25" as="geometry" />
+        </mxCell>
+        <mxCell id="_GPtF9NUB2TV1SQazWl2-55" edge="1" parent="1" source="_GPtF9NUB2TV1SQazWl2-49" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="_GPtF9NUB2TV1SQazWl2-53">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="_GPtF9NUB2TV1SQazWl2-49" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="测试环境搭建&lt;div&gt;测试方案建立&lt;/div&gt;" vertex="1">
+          <mxGeometry height="50" width="90" x="-800" y="750" as="geometry" />
+        </mxCell>
+        <mxCell id="_GPtF9NUB2TV1SQazWl2-50" parent="1" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;strokeColor=#A5A5A5;" value="电源输出测试" vertex="1">
+          <mxGeometry height="20" width="100" x="-680" y="735" as="geometry" />
+        </mxCell>
+        <mxCell id="_GPtF9NUB2TV1SQazWl2-51" parent="1" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;strokeColor=#A5A5A5;" value="基带模块测试" vertex="1">
+          <mxGeometry height="20" width="100" x="-680" y="765" as="geometry" />
+        </mxCell>
+        <mxCell id="_GPtF9NUB2TV1SQazWl2-52" parent="1" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;strokeColor=#A5A5A5;" value="射频S参数测试" vertex="1">
+          <mxGeometry height="20" width="100" x="-680" y="795" as="geometry" />
+        </mxCell>
+        <mxCell id="_GPtF9NUB2TV1SQazWl2-64" edge="1" parent="1" source="_GPtF9NUB2TV1SQazWl2-56" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="_GPtF9NUB2TV1SQazWl2-62">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="_GPtF9NUB2TV1SQazWl2-56" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" value="" vertex="1">
+          <mxGeometry height="95" width="115" x="-540" y="727.5" as="geometry" />
+        </mxCell>
+        <mxCell id="_GPtF9NUB2TV1SQazWl2-57" parent="1" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;strokeColor=#A5A5A5;" value="FSM状态机测试" vertex="1">
+          <mxGeometry height="20" width="100" x="-532.5" y="735" as="geometry" />
+        </mxCell>
+        <mxCell id="_GPtF9NUB2TV1SQazWl2-58" parent="1" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;strokeColor=#A5A5A5;" value="PSAM加解密测试" vertex="1">
+          <mxGeometry height="20" width="100" x="-532.5" y="765" as="geometry" />
+        </mxCell>
+        <mxCell id="_GPtF9NUB2TV1SQazWl2-59" parent="1" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;strokeColor=#A5A5A5;" value="OBU协同测试" vertex="1">
+          <mxGeometry height="20" width="100" x="-532.5" y="795" as="geometry" />
+        </mxCell>
+        <mxCell id="_GPtF9NUB2TV1SQazWl2-62" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="多车道自由流场景下&lt;div&gt;防碰撞算法测试与验证&lt;/div&gt;" vertex="1">
+          <mxGeometry height="62.5" width="140" x="-400" y="743.75" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
